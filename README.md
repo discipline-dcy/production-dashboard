@@ -8,7 +8,7 @@
 node server.js
 ```
 
-然后浏览器打开 http://localhost:3000
+然后浏览器打开 <http://localhost:3000>
 
 ## 项目结构
 
